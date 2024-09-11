@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "LogZonasAceria.LogZonasAceria.LogZonasAceria",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#LogZonasAceria-Display",
+        "navigationComponentName": "LogZonasAceria.LogZonasAceria",
+        "intentSemanticObject": "LogZonasAceria",
+        "intentAction": "Display",
+        "html5ApplicationName": "logzonasaceria",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "50ff9764-930b-471e-89bf-ad28365f4034-1565885773756"
+        ],
+        "contentPackages": [
+            "dfebe5b2-175b-4f57-a0de-b073a16f46eb-1565885493865"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Log Zonas Aceria",
+        "subtitle": "",
+        "searchKeywords": "Log Zonas Aceria,",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
